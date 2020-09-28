@@ -1,0 +1,106 @@
+body{
+  /* background-color: #222831;*/
+  background-image: url("images/blackPic.jpg");
+  font-family: 'Indie Flower', cursive;
+  font-size: 30px;
+
+
+}
+
+#Name:hover{
+  color:red;
+  transform: scale(1.5);
+
+}
+
+.heading{
+  font-family: 'Finger Paint', cursive;
+  color: orange;
+  margin-top: 50px;
+  margin-bottom: 30px;
+}
+
+.myImage{
+  /* margin-top: 30px;
+  margin-right: 20px;
+  margin-left: 20px;
+  margin-bottom: 30px; */
+
+  margin: 30px 20px 20px 30px;
+
+}
+
+.FirstContainer{
+  background-color: #faeee7;
+  /* height: 186px; */
+}
+
+h1{
+  text-align: center;
+  vertical-align: middle;
+  color: black;
+  font-family: 'Cedarville Cursive', cursive;
+}
+
+.bottom h1{
+  text-align: center;
+  vertical-align: middle;
+  margin-top: 50px;
+
+}
+
+div:hover{
+  /* transform: scale(1.2); */
+}
+
+.FirstContainer .top{
+  text-align: center;
+}
+
+.top2{
+  /* height: 400px; */
+  height: 100%;
+  background-color: red;
+}
+
+.Img{
+  width: 100%;
+  height: 100%;
+}
+
+.bottom{
+  text-align: center;
+  vertical-align: middle;
+  /* display: inline-block;
+  position: absolute; */
+  /* padding-top: 60px;
+  padding-bottom: 55px; */
+
+}
+
+.SecondContainer{
+  margin-top: 50px;
+}
+
+table{
+  /* text-align: center; */
+}
+
+.ThirdContainer{
+  margin-bottom: 50px;
+}
+
+.bottom3{
+  background-color: #faeee7;
+  backdrop-filter: blur(5px);
+
+}
+
+.FourthContainer{
+  /* background-color: #111d5e; */
+}
+
+.bottom4{
+  background-color: #faeee7;
+
+}
